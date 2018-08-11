@@ -3,7 +3,7 @@
 //  Claritax
 //
 //  Created by Amadou Camara on 8/11/18.
-//  Copyright © 2018 Amadou Camara. All rights reserved.
+//  Copyright © 2018 Doozy&Caiseen. All rights reserved.
 //
 
 import UIKit
